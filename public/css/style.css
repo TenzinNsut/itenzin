@@ -43,7 +43,7 @@ body{
     background-position: center center;
     height: 100vh; */
     height: 100vh;
-    cursor: none;
+    /* cursor: none; */
     overflow: hidden; /*to remove scroll bars from the side*/
 }
 
@@ -80,6 +80,7 @@ section{
   background-size: cover;
   background-position: center center;
   height: 100vh;
+  position: relative;
 }
 
 
