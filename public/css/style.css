@@ -244,6 +244,9 @@ section{
       text-align: center;
       padding: 45px;
     }
+    .toggle-button{
+      display: none;
+    }
   
      /* onlclick make it active */
      .nav-links.active{
