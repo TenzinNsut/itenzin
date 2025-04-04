@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Tenzin Lekshey - [tenzin@example.com](mailto:tenzin@example.com)
+Tenzin Lekshey - [bestg4u@gmail.com](mailto:bestg4u@gmail.com)
 
 Project Link: [https://github.com/TenzinNsut/itenzin](https://github.com/TenzinNsut/itenzin)
 
