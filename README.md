@@ -78,10 +78,10 @@ The website is designed to work on:
    cd itenzin
    ```
 
-3. Open index.html in your browser or use a local server:
+3. run on local server:
    ```
-   # Using Python for a simple HTTP server
-   python -m http.server
+   npm install
+   node app.js
    ```
 
 4. The website should now be running at `http://localhost:8000`
