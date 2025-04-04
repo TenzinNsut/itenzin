@@ -1,8 +1,8 @@
-# Tenzin Lekshey's Portfolio Website
+![image](https://github.com/user-attachments/assets/af9489ae-eeae-4dc4-8f6f-086f5c8a53f6)#Portfolio Website
 
 A modern, interactive portfolio website showcasing my projects, skills, and contact information. The site features a responsive design with engaging animations and a project carousel.
 
-![Tenzin Lekshey Portfolio](images/portfolio-preview.png)
+![Portfolio Website Link](https://itenzin.onrender.com/)
 
 ## 🌟 Features
 
