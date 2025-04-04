@@ -84,7 +84,7 @@ The website is designed to work on:
    node app.js
    ```
 
-4. The website should now be running at `http://localhost:8000`
+4. The website should now be running at `http://localhost:3000`
 
 ## 💡 Future Enhancements
 
